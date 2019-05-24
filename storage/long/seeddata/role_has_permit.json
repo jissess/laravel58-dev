@@ -1,0 +1,17 @@
+{
+  "data":
+  [
+    {
+      "role_id":1,
+      "permit_id":1
+    },
+    {
+      "role_id":1,
+      "permit_id":2
+    },
+    {
+      "role_id":1,
+      "permit_id":3
+    }
+  ]
+}

@@ -1,4 +1,3 @@
-# laravel58-dev
 #### 新拉下来后需要执行以下操作才可顺利执行
 ```$xslt
 php artisan key:generate    //生成app_key
